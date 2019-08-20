@@ -1,10 +1,8 @@
 # GoBarber
 
-Seja bem-vindo ao aplicativo GoBarber. Ele estará separado em três pastas diferentes de acordo com suas responsabilidades, são elas:
+Seja bem-vindo ao aplicativo GoBarber.
 
 - Back-end: desenvolvido com NodeJS
-- Front-end: desenvolvido com ReactJS
-- Mobile: desenvolvido com React Native
 
 ## Aplicação
 
