@@ -8,4 +8,4 @@ Seja bem-vindo ao aplicativo GoBarber. Ele estará separado em três pastas dife
 
 ## Aplicação
 
-O **GoBarber** é um aplicativo para agendamentos para barbearias e cabeleireiros.
+O **GoBarber** é um aplicativo para agendamentos de barbearias e cabeleireiros.
